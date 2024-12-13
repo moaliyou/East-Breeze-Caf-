@@ -1,0 +1,59 @@
+body {
+    background-color: #010101;
+    background-image: url("coffee-bg.jpg");
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.header-style {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.subtitle {
+    color: white;
+}
+
+h1, h2 {
+    color: #e07b39;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 500;
+}
+
+.menu-style {
+    display: inline-block;
+    width: 50%;
+    border: 1px solid #e07b39;
+    padding: 12px 16px;
+    margin-bottom: 24px;
+}
+
+.menu-style h2 {
+    text-align: left;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.menu-item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flavor {
+    text-align: left;
+    color: white;
+    width: 50%;
+}
+
+.price {
+    text-align: right;
+    color: white;
+    width: 50%;
+}
